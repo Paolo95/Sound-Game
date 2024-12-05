@@ -6,7 +6,7 @@ public class PlayerMotor : MonoBehaviour
 {
     private CharacterController controller;
     Vector3  playerVelocity;
-    public float speed = 5f;
+    public float speed = 6f;
 
     void Start()
     {
